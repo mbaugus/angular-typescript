@@ -8,3 +8,15 @@ for(let x: number = 0; x < 10; x++){
 function x() {
     console.log(x);
 }
+
+var a = 0;
+a = 8;
+
+let b = 2;
+b = 9;
+
+let c = "ABC";
+
+let s = `Hey there dude
+why ${c} is "There" &'So mch' problemo
+${b} ${a}`;
